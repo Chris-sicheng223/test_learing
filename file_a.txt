@@ -1,1 +1,3 @@
 The content in creating file A
+
+Hi, I am the message tpyed in merge conflict branch
