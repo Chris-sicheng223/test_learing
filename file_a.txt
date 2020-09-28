@@ -1,3 +1,8 @@
 The content in creating file A
 
+
 This is the first change in file A.
+
+Hi, I am the message tpyed in merge conflict branch
+
+merge succeed
